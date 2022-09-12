@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "113744585912",
+    "project_id": "karam1-ac1bb",
+    "storage_bucket": "karam1-ac1bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113744585912:android:472b5849a66c0e2fc4c04d",
+        "android_client_info": {
+          "package_name": "com.karam.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113744585912-b1s7tvtib3m7c6nf5m7422cnjl6aul2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karam.app",
+            "certificate_hash": "cb65944b1ef34371402d0dc6b0a28f6cfb7c0499"
+          }
+        },
+        {
+          "client_id": "113744585912-lm32d7s9u69ugp7pkngnrsgb6c2juid6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karam.app",
+            "certificate_hash": "aef7b40cf0f811619ed8246e6993b5c41c9e5edc"
+          }
+        },
+        {
+          "client_id": "113744585912-7henaab7m28n5iifogg5dd7p2gdj8bm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoNU2lhT2TEYGpAtupOkwEv4wnT-zY9Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113744585912-7henaab7m28n5iifogg5dd7p2gdj8bm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
